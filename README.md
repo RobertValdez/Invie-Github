@@ -1,4 +1,4 @@
 # Invie-Github
 Guitarras
 
-I'm learning git y github mode professional with Platzi :D
+I'm learning git, github and HTML in mode professional at Platzi :D
