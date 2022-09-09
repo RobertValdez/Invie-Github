@@ -1,4 +1,4 @@
 # Invie-Github
 Guitarras
 
-Toy en GiHo, YotoyenGiHo
+I'm learning git y github mode professional with Platzi :D
